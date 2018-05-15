@@ -1,0 +1,14 @@
+{% extends 'snps/base.html' %}
+
+{% block content %}
+    <div class="post">
+        {% if post.published_date %}
+            <div class="date">
+                {{ post.published_date }}
+            </div>
+        {% endif %}
+        <h1>{{ post.JOURNAL }}</h1>
+        <p>{{ post.STUDY|linebreaksbr }}</p>
+        <p>Link: {{ post.LINK }}</p>
+    </div>
+{% endblock %}
