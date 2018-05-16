@@ -26,3 +26,7 @@ class Post(models.Model):
 
     def __str__(self):
         return self.STUDY
+
+class Tost(models.Model):
+    f1 = models.CharField(max_length=100, default = "")
+    f2 = models.CharField(max_length=200, default = "")

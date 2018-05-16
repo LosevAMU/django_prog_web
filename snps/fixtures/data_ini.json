@@ -1,0 +1,128 @@
+[
+{
+"model": "snps.Post",
+"pk": 1,
+"fields": {
+"author": 1,
+"PUBMEDID": 25802187,
+"published_date": "2015-04-28",
+"JOURNAL": "Hepatology",
+"LINK": "www.ncbi.nlm.nih.gov/pubmed/25802187",
+"STUDY": "Genetic variants in five novel loci including CFB and CD40 predispose to chronic hepatitis B.",
+"DISEASE_TRAIT": "Chronic hepatitis B infection",
+"CHR_ID": "6",
+"CHR_POS": "31883457",
+"RSID_CURRENT": "652888",
+"P_VALUE": "1.00E-06",
+"PVALUE_MLOG": "6"
+}
+},
+{
+"model": "snps.Post",
+"pk": 2,
+"fields": {
+"author": 1,
+"PUBMEDID": 27863252,
+"published_date": "2016-11-17",
+"JOURNAL": "Cell",
+"LINK": "www.ncbi.nlm.nih.gov/pubmed/27863252",
+"STUDY": "The Allelic Landscape of Human Blood Cell Trait Variation and Links to Common Complex Disease.",
+"DISEASE_TRAIT": "Monocyte count",
+"CHR_ID": "10",
+"CHR_POS": "71765768",
+"RSID_CURRENT": "7919533",
+"P_VALUE": "2.00E-09",
+"PVALUE_MLOG": "8.69897"
+}
+},
+{
+"model": "snps.Post",
+"pk": 3,
+"fields": {
+"author": 1,
+"PUBMEDID": 27702941,
+"published_date": "2016-10-03",
+"JOURNAL": "Hum Mol Genet",
+"LINK": "www.ncbi.nlm.nih.gov/pubmed/27702941",
+"STUDY": "Genome-wide association study of caffeine metabolites provides new insights to caffeine metabolism and dietary caffeine-consumption behavior.",
+"DISEASE_TRAIT": "Caffeine metabolism (plasma 1,3,7-trimethylxanthine (caffeine) level)",
+"CHR_ID": "7",
+"CHR_POS": "17247482",
+"RSID_CURRENT": "6968554",
+"P_VALUE": "5.00E-13",
+"PVALUE_MLOG": "12.30103"
+}
+},
+{
+"model": "snps.Post",
+"pk": 4,
+"fields": {
+"author": 1,
+"PUBMEDID": 24390342,
+"published_date": "2013-12-25",
+"JOURNAL": "Nature",
+"LINK": "www.ncbi.nlm.nih.gov/pubmed/24390342",
+"STUDY": "Genetics of rheumatoid arthritis contributes to biology and drug discovery.",
+"DISEASE_TRAIT": "Rheumatoid arthritis",
+"CHR_ID": "17",
+"CHR_POS": "5369285",
+"RSID_CURRENT": "72634030",
+"P_VALUE": "2.00E-09",
+"PVALUE_MLOG": "8.69897"
+}
+},
+{
+"model": "snps.Post",
+"pk": 5,
+"fields": {
+"author": 1,
+"PUBMEDID": 26634245,
+"published_date": "2015-12-03",
+"JOURNAL": "BMC Genet",
+"LINK": "www.ncbi.nlm.nih.gov/pubmed/26634245",
+"STUDY": "A genome-wide association study identifies risk loci for spirometric measures among smokers of European and African ancestry.",
+"DISEASE_TRAIT": "Post bronchodilator FEV1/FVC ratio",
+"CHR_ID": "6",
+"CHR_POS": "53405757",
+"RSID_CURRENT": "182332476",
+"P_VALUE": "3.00E-06",
+"PVALUE_MLOG": "5.522879"
+}
+},
+{
+"model": "snps.Post",
+"pk": 6,
+"fields": {
+"author": 1,
+"PUBMEDID": 27863252,
+"published_date": "2016-11-17",
+"JOURNAL": "Cell",
+"LINK": "www.ncbi.nlm.nih.gov/pubmed/27863252",
+"STUDY": "The Allelic Landscape of Human Blood Cell Trait Variation and Links to Common Complex Disease.",
+"DISEASE_TRAIT": "High light scatter reticulocyte percentage of red cells",
+"CHR_ID": "2",
+"CHR_POS": "27508073",
+"RSID_CURRENT": "1260326",
+"P_VALUE": "4.00E-22",
+"PVALUE_MLOG": "21.39794"
+}
+},
+{
+"model": "snps.Post",
+"pk": 7,
+"fields": {
+"author": 1,
+"PUBMEDID": 28739976,
+"published_date": "2017-07-24",
+"JOURNAL": "Hypertension",
+"LINK": "www.ncbi.nlm.nih.gov/pubmed/28739976",
+"STUDY": "Novel Blood Pressure Locus and Gene Discovery Using Genome-Wide Association Study and Expression Data Sets From Blood and the Kidney.",
+"DISEASE_TRAIT": "Systolic blood pressure",
+"CHR_ID": "12",
+"CHR_POS": "50144032",
+"RSID_CURRENT": "7302981",
+"P_VALUE": "1.00E-07",
+"PVALUE_MLOG": "7"
+}
+}
+]

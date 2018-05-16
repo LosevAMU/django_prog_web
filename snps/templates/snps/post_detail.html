@@ -9,9 +9,15 @@
         {% endif %}
         {% if user.is_authenticated %}
           <a class="btn btn-default" href="{% url 'post_edit' pk=post.pk %}"><span class="glyphicon glyphicon-pencil"></span></a>
+          <a class="btn btn-default" href="{% url 'post_remove' pk=post.pk %}"><span class="glyphicon glyphicon-remove"></span></a>
         {% endif %}
-        <h1>{{ post.JOURNAL }}</h1>
+        <h1>{{ post.JOURNAL }}; PubmedID - {{ post.PUBMEDID }}</h1>
         <p>{{ post.STUDY|linebreaksbr }}</p>
         <p>Link: {{ post.LINK }}</p>
+        <p>Disease/Trait: {{ post.DISEASE_TRAIT }}</p>
+        <p>Chromosome number: {{ post.CHR_ID }}</p>
+        <p>Position on Chromosome: {{ post.CHR_POS }}</p>
+        <p>RSID: {{ post.RSID_CURRENT }}</p>
+        <p>p-Value: {{ post.P_VALUE }}; Log(p-Value): {{ post.PVALUE_MLOG }}</p>
     </div>
 {% endblock %}
