@@ -1,0 +1,13 @@
+[
+  {
+    "model": "snps.SNP2Phenotype2Ref",
+    "pk": 1,
+    "fields": {
+      "Snp_id": 1,
+      "Disease_trait_id": 1,
+      "Reference_id": 1,
+      "pvalue" : 1.00E-06,
+      "neglog10pvalue" : 8.69897
+    }
+  }
+]

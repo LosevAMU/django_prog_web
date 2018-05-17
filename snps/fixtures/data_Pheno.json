@@ -1,0 +1,1069 @@
+[
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 1,
+"fields": {
+"Snp_id": 1,
+"Disease_trait_id": 1,
+"Reference_id": 1,
+"pvalue": "1.00E-06",
+"neglog10pvalue": "6.000000"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 2,
+"fields": {
+"Snp_id": 2,
+"Disease_trait_id": 2,
+"Reference_id": 2,
+"pvalue": "2.00E-09",
+"neglog10pvalue": "8.698970"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 3,
+"fields": {
+"Snp_id": 3,
+"Disease_trait_id": 3,
+"Reference_id": 3,
+"pvalue": "5.00E-13",
+"neglog10pvalue": "12.301030"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 4,
+"fields": {
+"Snp_id": 4,
+"Disease_trait_id": 4,
+"Reference_id": 4,
+"pvalue": "2.00E-09",
+"neglog10pvalue": "8.698970"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 5,
+"fields": {
+"Snp_id": 5,
+"Disease_trait_id": 5,
+"Reference_id": 5,
+"pvalue": "3.00E-06",
+"neglog10pvalue": "5.522879"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 6,
+"fields": {
+"Snp_id": 6,
+"Disease_trait_id": 6,
+"Reference_id": 6,
+"pvalue": "4.00E-22",
+"neglog10pvalue": "21.397940"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 7,
+"fields": {
+"Snp_id": 7,
+"Disease_trait_id": 7,
+"Reference_id": 7,
+"pvalue": "1.00E-07",
+"neglog10pvalue": "7.000000"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 8,
+"fields": {
+"Snp_id": 8,
+"Disease_trait_id": 8,
+"Reference_id": 8,
+"pvalue": "8.00E-06",
+"neglog10pvalue": "5.096910"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 9,
+"fields": {
+"Snp_id": 9,
+"Disease_trait_id": 9,
+"Reference_id": 9,
+"pvalue": "2.00E-06",
+"neglog10pvalue": "5.698970"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 10,
+"fields": {
+"Snp_id": 10,
+"Disease_trait_id": 10,
+"Reference_id": 10,
+"pvalue": "1.00E-08",
+"neglog10pvalue": "8.000000"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 11,
+"fields": {
+"Snp_id": 11,
+"Disease_trait_id": 11,
+"Reference_id": 11,
+"pvalue": "3.00E-06",
+"neglog10pvalue": "5.522879"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 12,
+"fields": {
+"Snp_id": 12,
+"Disease_trait_id": 12,
+"Reference_id": 12,
+"pvalue": "3.00E-08",
+"neglog10pvalue": "7.522879"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 13,
+"fields": {
+"Snp_id": 13,
+"Disease_trait_id": 13,
+"Reference_id": 13,
+"pvalue": "1.00E-30",
+"neglog10pvalue": "30.000000"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 14,
+"fields": {
+"Snp_id": 14,
+"Disease_trait_id": 14,
+"Reference_id": 14,
+"pvalue": "1.00E-17",
+"neglog10pvalue": "17.000000"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 15,
+"fields": {
+"Snp_id": 15,
+"Disease_trait_id": 15,
+"Reference_id": 15,
+"pvalue": "2.00E-34",
+"neglog10pvalue": "33.698970"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 16,
+"fields": {
+"Snp_id": 16,
+"Disease_trait_id": 16,
+"Reference_id": 16,
+"pvalue": "8.00E-06",
+"neglog10pvalue": "5.096910"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 17,
+"fields": {
+"Snp_id": 17,
+"Disease_trait_id": 17,
+"Reference_id": 17,
+"pvalue": "9.00E-06",
+"neglog10pvalue": "5.045757"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 18,
+"fields": {
+"Snp_id": 18,
+"Disease_trait_id": 18,
+"Reference_id": 18,
+"pvalue": "3.00E-06",
+"neglog10pvalue": "5.522879"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 19,
+"fields": {
+"Snp_id": 19,
+"Disease_trait_id": 19,
+"Reference_id": 19,
+"pvalue": "1.00E-06",
+"neglog10pvalue": "6.000000"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 20,
+"fields": {
+"Snp_id": 20,
+"Disease_trait_id": 20,
+"Reference_id": 20,
+"pvalue": "2.00E-06",
+"neglog10pvalue": "5.698970"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 21,
+"fields": {
+"Snp_id": 21,
+"Disease_trait_id": 21,
+"Reference_id": 21,
+"pvalue": "2.00E-08",
+"neglog10pvalue": "7.698970"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 22,
+"fields": {
+"Snp_id": 22,
+"Disease_trait_id": 22,
+"Reference_id": 22,
+"pvalue": "1.00E-11",
+"neglog10pvalue": "11.000000"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 23,
+"fields": {
+"Snp_id": 23,
+"Disease_trait_id": 23,
+"Reference_id": 23,
+"pvalue": "2.00E-14",
+"neglog10pvalue": "13.698970"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 24,
+"fields": {
+"Snp_id": 24,
+"Disease_trait_id": 24,
+"Reference_id": 24,
+"pvalue": "3.00E-09",
+"neglog10pvalue": "8.522879"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 25,
+"fields": {
+"Snp_id": 25,
+"Disease_trait_id": 25,
+"Reference_id": 25,
+"pvalue": "2.00E-09",
+"neglog10pvalue": "8.698970"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 26,
+"fields": {
+"Snp_id": 26,
+"Disease_trait_id": 26,
+"Reference_id": 26,
+"pvalue": "1.00E-11",
+"neglog10pvalue": "11.000000"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 27,
+"fields": {
+"Snp_id": 27,
+"Disease_trait_id": 27,
+"Reference_id": 27,
+"pvalue": "1.00E-06",
+"neglog10pvalue": "6.000000"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 28,
+"fields": {
+"Snp_id": 28,
+"Disease_trait_id": 28,
+"Reference_id": 28,
+"pvalue": "4.00E-06",
+"neglog10pvalue": "5.397940"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 29,
+"fields": {
+"Snp_id": 29,
+"Disease_trait_id": 29,
+"Reference_id": 29,
+"pvalue": "3.00E-07",
+"neglog10pvalue": "6.522879"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 30,
+"fields": {
+"Snp_id": 30,
+"Disease_trait_id": 30,
+"Reference_id": 30,
+"pvalue": "2.00E-09",
+"neglog10pvalue": "8.698970"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 31,
+"fields": {
+"Snp_id": 31,
+"Disease_trait_id": 31,
+"Reference_id": 31,
+"pvalue": "2.00E-06",
+"neglog10pvalue": "5.698970"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 32,
+"fields": {
+"Snp_id": 32,
+"Disease_trait_id": 32,
+"Reference_id": 32,
+"pvalue": "5.00E-16",
+"neglog10pvalue": "15.301030"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 33,
+"fields": {
+"Snp_id": 33,
+"Disease_trait_id": 33,
+"Reference_id": 33,
+"pvalue": "5.00E-06",
+"neglog10pvalue": "5.301030"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 34,
+"fields": {
+"Snp_id": 34,
+"Disease_trait_id": 34,
+"Reference_id": 34,
+"pvalue": "1.00E-06",
+"neglog10pvalue": "6.000000"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 35,
+"fields": {
+"Snp_id": 35,
+"Disease_trait_id": 35,
+"Reference_id": 35,
+"pvalue": "8.00E-10",
+"neglog10pvalue": "9.096910"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 36,
+"fields": {
+"Snp_id": 36,
+"Disease_trait_id": 36,
+"Reference_id": 36,
+"pvalue": "2.00E-49",
+"neglog10pvalue": "48.698970"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 37,
+"fields": {
+"Snp_id": 37,
+"Disease_trait_id": 37,
+"Reference_id": 37,
+"pvalue": "4.00E-06",
+"neglog10pvalue": "5.397940"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 38,
+"fields": {
+"Snp_id": 38,
+"Disease_trait_id": 38,
+"Reference_id": 38,
+"pvalue": "3.00E-06",
+"neglog10pvalue": "5.522879"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 39,
+"fields": {
+"Snp_id": 39,
+"Disease_trait_id": 39,
+"Reference_id": 39,
+"pvalue": "3.00E-06",
+"neglog10pvalue": "5.522879"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 40,
+"fields": {
+"Snp_id": 40,
+"Disease_trait_id": 40,
+"Reference_id": 40,
+"pvalue": "2.00E-08",
+"neglog10pvalue": "7.698970"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 41,
+"fields": {
+"Snp_id": 41,
+"Disease_trait_id": 41,
+"Reference_id": 41,
+"pvalue": "4.00E-06",
+"neglog10pvalue": "5.397940"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 42,
+"fields": {
+"Snp_id": 42,
+"Disease_trait_id": 42,
+"Reference_id": 42,
+"pvalue": "5.00E-09",
+"neglog10pvalue": "8.301030"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 43,
+"fields": {
+"Snp_id": 43,
+"Disease_trait_id": 43,
+"Reference_id": 43,
+"pvalue": "9.00E-08",
+"neglog10pvalue": "7.045757"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 44,
+"fields": {
+"Snp_id": 44,
+"Disease_trait_id": 44,
+"Reference_id": 44,
+"pvalue": "7.00E-13",
+"neglog10pvalue": "12.154902"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 45,
+"fields": {
+"Snp_id": 45,
+"Disease_trait_id": 45,
+"Reference_id": 45,
+"pvalue": "2.00E-34",
+"neglog10pvalue": "33.698970"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 46,
+"fields": {
+"Snp_id": 46,
+"Disease_trait_id": 46,
+"Reference_id": 46,
+"pvalue": "5.00E-13",
+"neglog10pvalue": "12.301030"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 47,
+"fields": {
+"Snp_id": 47,
+"Disease_trait_id": 47,
+"Reference_id": 47,
+"pvalue": "3.00E-06",
+"neglog10pvalue": "5.522879"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 48,
+"fields": {
+"Snp_id": 48,
+"Disease_trait_id": 48,
+"Reference_id": 48,
+"pvalue": "1.00E-10",
+"neglog10pvalue": "10.000000"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 49,
+"fields": {
+"Snp_id": 49,
+"Disease_trait_id": 49,
+"Reference_id": 49,
+"pvalue": "3.00E-07",
+"neglog10pvalue": "6.522879"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 50,
+"fields": {
+"Snp_id": 50,
+"Disease_trait_id": 50,
+"Reference_id": 50,
+"pvalue": "4.00E-15",
+"neglog10pvalue": "14.397940"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 51,
+"fields": {
+"Snp_id": 51,
+"Disease_trait_id": 51,
+"Reference_id": 51,
+"pvalue": "4.00E-14",
+"neglog10pvalue": "13.397940"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 52,
+"fields": {
+"Snp_id": 52,
+"Disease_trait_id": 52,
+"Reference_id": 52,
+"pvalue": "3.00E-33",
+"neglog10pvalue": "32.522879"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 53,
+"fields": {
+"Snp_id": 53,
+"Disease_trait_id": 53,
+"Reference_id": 53,
+"pvalue": "3.00E-28",
+"neglog10pvalue": "27.522879"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 54,
+"fields": {
+"Snp_id": 54,
+"Disease_trait_id": 54,
+"Reference_id": 54,
+"pvalue": "3.00E-06",
+"neglog10pvalue": "5.522879"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 55,
+"fields": {
+"Snp_id": 55,
+"Disease_trait_id": 55,
+"Reference_id": 55,
+"pvalue": "5.00E-06",
+"neglog10pvalue": "5.301030"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 56,
+"fields": {
+"Snp_id": 56,
+"Disease_trait_id": 56,
+"Reference_id": 56,
+"pvalue": "3.00E-07",
+"neglog10pvalue": "6.522879"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 57,
+"fields": {
+"Snp_id": 57,
+"Disease_trait_id": 57,
+"Reference_id": 57,
+"pvalue": "3.00E-202",
+"neglog10pvalue": "201.522879"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 58,
+"fields": {
+"Snp_id": 58,
+"Disease_trait_id": 58,
+"Reference_id": 58,
+"pvalue": "3.00E-07",
+"neglog10pvalue": "6.522879"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 59,
+"fields": {
+"Snp_id": 59,
+"Disease_trait_id": 59,
+"Reference_id": 59,
+"pvalue": "3.00E-06",
+"neglog10pvalue": "5.522879"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 60,
+"fields": {
+"Snp_id": 60,
+"Disease_trait_id": 60,
+"Reference_id": 60,
+"pvalue": "1.00E-06",
+"neglog10pvalue": "6.000000"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 61,
+"fields": {
+"Snp_id": 61,
+"Disease_trait_id": 61,
+"Reference_id": 61,
+"pvalue": "3.00E-11",
+"neglog10pvalue": "10.522879"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 62,
+"fields": {
+"Snp_id": 62,
+"Disease_trait_id": 62,
+"Reference_id": 62,
+"pvalue": "6.00E-06",
+"neglog10pvalue": "5.221849"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 63,
+"fields": {
+"Snp_id": 63,
+"Disease_trait_id": 63,
+"Reference_id": 63,
+"pvalue": "4.00E-06",
+"neglog10pvalue": "5.397940"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 64,
+"fields": {
+"Snp_id": 64,
+"Disease_trait_id": 64,
+"Reference_id": 64,
+"pvalue": "5.00E-10",
+"neglog10pvalue": "9.301030"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 65,
+"fields": {
+"Snp_id": 65,
+"Disease_trait_id": 65,
+"Reference_id": 65,
+"pvalue": "2.00E-06",
+"neglog10pvalue": "5.698970"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 66,
+"fields": {
+"Snp_id": 66,
+"Disease_trait_id": 66,
+"Reference_id": 66,
+"pvalue": "6.00E-15",
+"neglog10pvalue": "14.221849"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 67,
+"fields": {
+"Snp_id": 67,
+"Disease_trait_id": 67,
+"Reference_id": 67,
+"pvalue": "4.00E-06",
+"neglog10pvalue": "5.397940"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 68,
+"fields": {
+"Snp_id": 68,
+"Disease_trait_id": 68,
+"Reference_id": 68,
+"pvalue": "9.00E-07",
+"neglog10pvalue": "6.045757"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 69,
+"fields": {
+"Snp_id": 69,
+"Disease_trait_id": 69,
+"Reference_id": 69,
+"pvalue": "2.00E-06",
+"neglog10pvalue": "5.698970"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 70,
+"fields": {
+"Snp_id": 70,
+"Disease_trait_id": 70,
+"Reference_id": 70,
+"pvalue": "2.00E-07",
+"neglog10pvalue": "6.698970"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 71,
+"fields": {
+"Snp_id": 71,
+"Disease_trait_id": 71,
+"Reference_id": 71,
+"pvalue": "1.00E-16",
+"neglog10pvalue": "16.000000"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 72,
+"fields": {
+"Snp_id": 72,
+"Disease_trait_id": 72,
+"Reference_id": 72,
+"pvalue": "1.00E-06",
+"neglog10pvalue": "6.000000"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 73,
+"fields": {
+"Snp_id": 73,
+"Disease_trait_id": 73,
+"Reference_id": 73,
+"pvalue": "1.00E-32",
+"neglog10pvalue": "32.000000"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 74,
+"fields": {
+"Snp_id": 74,
+"Disease_trait_id": 74,
+"Reference_id": 74,
+"pvalue": "8.00E-06",
+"neglog10pvalue": "5.096910"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 75,
+"fields": {
+"Snp_id": 75,
+"Disease_trait_id": 75,
+"Reference_id": 75,
+"pvalue": "3.00E-08",
+"neglog10pvalue": "7.522879"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 76,
+"fields": {
+"Snp_id": 76,
+"Disease_trait_id": 76,
+"Reference_id": 76,
+"pvalue": "5.00E-13",
+"neglog10pvalue": "12.301030"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 77,
+"fields": {
+"Snp_id": 77,
+"Disease_trait_id": 77,
+"Reference_id": 77,
+"pvalue": "1.00E-06",
+"neglog10pvalue": "6.000000"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 78,
+"fields": {
+"Snp_id": 78,
+"Disease_trait_id": 78,
+"Reference_id": 78,
+"pvalue": "2.00E-06",
+"neglog10pvalue": "5.698970"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 79,
+"fields": {
+"Snp_id": 79,
+"Disease_trait_id": 79,
+"Reference_id": 79,
+"pvalue": "1.00E-06",
+"neglog10pvalue": "6.000000"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 80,
+"fields": {
+"Snp_id": 80,
+"Disease_trait_id": 80,
+"Reference_id": 80,
+"pvalue": "1.00E-06",
+"neglog10pvalue": "6.000000"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 81,
+"fields": {
+"Snp_id": 81,
+"Disease_trait_id": 81,
+"Reference_id": 81,
+"pvalue": "4.00E-13",
+"neglog10pvalue": "12.397940"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 82,
+"fields": {
+"Snp_id": 82,
+"Disease_trait_id": 82,
+"Reference_id": 82,
+"pvalue": "6.00E-30",
+"neglog10pvalue": "29.221849"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 83,
+"fields": {
+"Snp_id": 83,
+"Disease_trait_id": 83,
+"Reference_id": 83,
+"pvalue": "4.00E-08",
+"neglog10pvalue": "7.397940"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 84,
+"fields": {
+"Snp_id": 84,
+"Disease_trait_id": 84,
+"Reference_id": 84,
+"pvalue": "3.00E-06",
+"neglog10pvalue": "5.522879"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 85,
+"fields": {
+"Snp_id": 85,
+"Disease_trait_id": 85,
+"Reference_id": 85,
+"pvalue": "6.00E-09",
+"neglog10pvalue": "8.221849"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 86,
+"fields": {
+"Snp_id": 86,
+"Disease_trait_id": 86,
+"Reference_id": 86,
+"pvalue": "7.00E-06",
+"neglog10pvalue": "5.154902"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 87,
+"fields": {
+"Snp_id": 87,
+"Disease_trait_id": 87,
+"Reference_id": 87,
+"pvalue": "2.00E-14",
+"neglog10pvalue": "13.698970"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 88,
+"fields": {
+"Snp_id": 88,
+"Disease_trait_id": 88,
+"Reference_id": 88,
+"pvalue": "4.00E-06",
+"neglog10pvalue": "5.397940"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 89,
+"fields": {
+"Snp_id": 89,
+"Disease_trait_id": 89,
+"Reference_id": 89,
+"pvalue": "3.00E-12",
+"neglog10pvalue": "11.522879"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 90,
+"fields": {
+"Snp_id": 90,
+"Disease_trait_id": 90,
+"Reference_id": 90,
+"pvalue": "2.00E-09",
+"neglog10pvalue": "8.698970"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 91,
+"fields": {
+"Snp_id": 91,
+"Disease_trait_id": 91,
+"Reference_id": 91,
+"pvalue": "4.00E-38",
+"neglog10pvalue": "37.397940"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 92,
+"fields": {
+"Snp_id": 92,
+"Disease_trait_id": 92,
+"Reference_id": 92,
+"pvalue": "8.00E-06",
+"neglog10pvalue": "5.096910"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 93,
+"fields": {
+"Snp_id": 93,
+"Disease_trait_id": 93,
+"Reference_id": 93,
+"pvalue": "2.00E-06",
+"neglog10pvalue": "5.698970"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 94,
+"fields": {
+"Snp_id": 94,
+"Disease_trait_id": 94,
+"Reference_id": 94,
+"pvalue": "3.00E-07",
+"neglog10pvalue": "6.522879"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 95,
+"fields": {
+"Snp_id": 95,
+"Disease_trait_id": 95,
+"Reference_id": 95,
+"pvalue": "6.00E-11",
+"neglog10pvalue": "10.221849"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 96,
+"fields": {
+"Snp_id": 96,
+"Disease_trait_id": 96,
+"Reference_id": 96,
+"pvalue": "3.00E-07",
+"neglog10pvalue": "6.522879"
+}
+},
+{
+"model": "snps.SNP2Phenotype2Ref",
+"pk": 97,
+"fields": {
+"Snp_id": 97,
+"Disease_trait_id": 97,
+"Reference_id": 97,
+"pvalue": "4.00E-07",
+"neglog10pvalue": "6.397940"
+}
+}
+]

@@ -1,0 +1,972 @@
+[
+{
+"model": "snps.Reference",
+"pk": 1,
+"fields": {
+"Pubmedid": 25802187,
+"Date": "2015-04-28",
+"Journal": "Hepatology",
+"Title": "Genetic variants in five novel loci including CFB and CD40 predispose to chronic hepatitis B."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 2,
+"fields": {
+"Pubmedid": 27863252,
+"Date": "2016-11-17",
+"Journal": "Cell",
+"Title": "The Allelic Landscape of Human Blood Cell Trait Variation and Links to Common Complex Disease."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 3,
+"fields": {
+"Pubmedid": 27702941,
+"Date": "2016-10-03",
+"Journal": "Hum Mol Genet",
+"Title": "Genome-wide association study of caffeine metabolites provides new insights to caffeine metabolism and dietary caffeine-consumption behavior."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 4,
+"fields": {
+"Pubmedid": 24390342,
+"Date": "2013-12-25",
+"Journal": "Nature",
+"Title": "Genetics of rheumatoid arthritis contributes to biology and drug discovery."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 5,
+"fields": {
+"Pubmedid": 26634245,
+"Date": "2015-12-03",
+"Journal": "BMC Genet",
+"Title": "A genome-wide association study identifies risk loci for spirometric measures among smokers of European and African ancestry."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 6,
+"fields": {
+"Pubmedid": 27863252,
+"Date": "2016-11-17",
+"Journal": "Cell",
+"Title": "The Allelic Landscape of Human Blood Cell Trait Variation and Links to Common Complex Disease."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 7,
+"fields": {
+"Pubmedid": 28739976,
+"Date": "2017-07-24",
+"Journal": "Hypertension",
+"Title": "Novel Blood Pressure Locus and Gene Discovery Using Genome-Wide Association Study and Expression Data Sets From Blood and the Kidney."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 8,
+"fields": {
+"Pubmedid": 23502783,
+"Date": "2013-03-17",
+"Journal": "Nat Genet",
+"Title": "The CCND1 c.870G&gt:A polymorphism is a risk factor for t(11:14)(q13:q32) multiple myeloma."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 9,
+"fields": {
+"Pubmedid": 26053186,
+"Date": "2015-06-08",
+"Journal": "PLoS One",
+"Title": "Mercapturic Acids Derived from the Toxicants Acrolein and Crotonaldehyde in the Urine of Cigarette Smokers from Five Ethnic Groups with Differing Risks for Lung Cancer."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 10,
+"fields": {
+"Pubmedid": 28334899,
+"Date": "2017-02-21",
+"Journal": "Hum Mol Genet",
+"Title": "Association analyses of East Asian individuals and trans-ancestry analyses with European individuals reveal new loci associated with cholesterol and triglyceride levels."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 11,
+"fields": {
+"Pubmedid": 28394258,
+"Date": "2017-04-10",
+"Journal": "J Clin Invest",
+"Title": "Large-scale genome-wide analysis identifies genetic variants associated with cardiac structure and function."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 12,
+"fields": {
+"Pubmedid": 28067908,
+"Date": "2017-01-09",
+"Journal": "Nat Genet",
+"Title": "Genome-wide association study implicates immune activation of multiple integrin genes in inflammatory bowel disease."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 13,
+"fields": {
+"Pubmedid": 27863252,
+"Date": "2016-11-17",
+"Journal": "Cell",
+"Title": "The Allelic Landscape of Human Blood Cell Trait Variation and Links to Common Complex Disease."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 14,
+"fields": {
+"Pubmedid": 26068415,
+"Date": "2015-06-12",
+"Journal": "Nat Commun",
+"Title": "Genome-wide association study identifies novel genetic variants contributing to variation in blood metabolite levels."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 15,
+"fields": {
+"Pubmedid": 28334899,
+"Date": "2017-02-21",
+"Journal": "Hum Mol Genet",
+"Title": "Association analyses of East Asian individuals and trans-ancestry analyses with European individuals reveal new loci associated with cholesterol and triglyceride levels."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 16,
+"fields": {
+"Pubmedid": 28437668,
+"Date": "2017-04-14",
+"Journal": "Psychiatry Res",
+"Title": "Genome-wide association study of treatment response to venlafaxine XR in generalized anxiety disorder."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 17,
+"fields": {
+"Pubmedid": 21254220,
+"Date": "2011-02-01",
+"Journal": "Genet Epidemiol",
+"Title": "Propensity score-based nonparametric test revealing genetic variants underlying bipolar disorder."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 18,
+"fields": {
+"Pubmedid": 19451621,
+"Date": "2009-05-18",
+"Journal": "Proc Natl Acad Sci U S A",
+"Title": "Reduced expression of the Kinesin-Associated Protein 3 (KIFAP3) gene increases survival in sporadic amyotrophic lateral sclerosis."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 19,
+"fields": {
+"Pubmedid": 20889312,
+"Date": "2010-10-01",
+"Journal": "Schizophr Res",
+"Title": "A genome-wide meta-analysis identifies novel loci associated with schizophrenia and bipolar disorder."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 20,
+"fields": {
+"Pubmedid": 25811787,
+"Date": "2015-03-26",
+"Journal": "PLoS One",
+"Title": "Modulation of Genetic Associations with Serum Urate Levels by Body-Mass-Index in Humans."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 21,
+"fields": {
+"Pubmedid": 21743469,
+"Date": "2011-07-10",
+"Journal": "Nat Genet",
+"Title": "Interaction between ERAP1 and HLA-B27 in ankylosing spondylitis implicates peptide handling in the mechanism for HLA-B27 in disease susceptibility."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 22,
+"fields": {
+"Pubmedid": 27863252,
+"Date": "2016-11-17",
+"Journal": "Cell",
+"Title": "The Allelic Landscape of Human Blood Cell Trait Variation and Links to Common Complex Disease."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 23,
+"fields": {
+"Pubmedid": 23408906,
+"Date": "2013-02-07",
+"Journal": "PLoS Genet",
+"Title": "A meta-analysis of thyroid-related traits reveals novel loci and gender-specific differences in the regulation of thyroid function."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 24,
+"fields": {
+"Pubmedid": 28448500,
+"Date": "2017-04-27",
+"Journal": "PLoS Genet",
+"Title": "Genome-wide physical activity interactions in adiposity - A meta-analysis of 200,452 adults."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 25,
+"fields": {
+"Pubmedid": 27863252,
+"Date": "2016-11-17",
+"Journal": "Cell",
+"Title": "The Allelic Landscape of Human Blood Cell Trait Variation and Links to Common Complex Disease."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 26,
+"fields": {
+"Pubmedid": 25429064,
+"Date": "2014-11-26",
+"Journal": "Hum Mol Genet",
+"Title": "Meta-analysis of genome-wide association studies of adult height in East Asians identifies 17 novel loci."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 27,
+"fields": {
+"Pubmedid": 27989323,
+"Date": "2016-12-13",
+"Journal": "Am J Hum Genet",
+"Title": "Genome-wide Association Study Identifies 27 Loci Influencing Concentrations of Circulating Cytokines and Growth Factors."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 28,
+"fields": {
+"Pubmedid": 24595857,
+"Date": "2014-03-05",
+"Journal": "Diabetologia",
+"Title": "Genome-wide association study of urinary albumin excretion rate in patients with type 1 diabetes."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 29,
+"fields": {
+"Pubmedid": 29151059,
+"Date": "2017-11-18",
+"Journal": "J Med Genet",
+"Title": "Genome-wide association study of telomere length among South Asians identifies a second RTEL1 association signal."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 30,
+"fields": {
+"Pubmedid": 22561518,
+"Date": "2012-05-06",
+"Journal": "Nat Genet",
+"Title": "Genome-wide association analyses identify 13 new susceptibility loci for generalized vitiligo."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 31,
+"fields": {
+"Pubmedid": 25918132,
+"Date": "2015-04-26",
+"Journal": "Toxicol Sci",
+"Title": "Genome-wide association study identifies novel loci associated with diisocyanate-induced occupational asthma."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 32,
+"fields": {
+"Pubmedid": 27863252,
+"Date": "2016-11-17",
+"Journal": "Cell",
+"Title": "The Allelic Landscape of Human Blood Cell Trait Variation and Links to Common Complex Disease."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 33,
+"fields": {
+"Pubmedid": 18821565,
+"Date": "2008-12-05",
+"Journal": "Am J Med Genet B Neuropsychiatr Genet",
+"Title": "Genome-wide association scan of quantitative traits for attention deficit hyperactivity disorder identifies novel associations and confirms candidate gene associations."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 34,
+"fields": {
+"Pubmedid": 27989323,
+"Date": "2016-12-13",
+"Journal": "Am J Hum Genet",
+"Title": "Genome-wide Association Study Identifies 27 Loci Influencing Concentrations of Circulating Cytokines and Growth Factors."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 35,
+"fields": {
+"Pubmedid": 28443625,
+"Date": "2017-04-26",
+"Journal": "Nat Commun",
+"Title": "Genome-wide meta-analysis of 241,258 adults accounting for smoking behaviour identifies novel loci for obesity traits."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 36,
+"fields": {
+"Pubmedid": 25282103,
+"Date": "2014-10-05",
+"Journal": "Nat Genet",
+"Title": "Defining the role of common variation in the genomic and biological architecture of adult human height."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 37,
+"fields": {
+"Pubmedid": 26242244,
+"Date": "2015-08-05",
+"Journal": "Sci Rep",
+"Title": "Association of chromosome 5q21.3 polymorphisms with the exploratory eye movement dysfunction in schizophrenia."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 38,
+"fields": {
+"Pubmedid": 24001895,
+"Date": "2013-09-03",
+"Journal": "Hypertension",
+"Title": "Genome-wide association study meta-analysis reveals transethnic replication of mean arterial and pulse pressure loci."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 39,
+"fields": {
+"Pubmedid": 20041166,
+"Date": "2009-12-24",
+"Journal": "PLoS Genet",
+"Title": "Common genetic variation and the control of HIV-1 in humans."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 40,
+"fields": {
+"Pubmedid": 25241909,
+"Date": "2014-09-21",
+"Journal": "Respir Res",
+"Title": "Genetic susceptibility for chronic bronchitis in chronic obstructive pulmonary disease."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 41,
+"fields": {
+"Pubmedid": 23527680,
+"Date": "2013-04-01",
+"Journal": "Twin Res Hum Genet",
+"Title": "Genome-wide association study of inattention and hyperactivity-impulsivity measured as quantitative traits."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 42,
+"fields": {
+"Pubmedid": 28540026,
+"Date": "2017-05-22",
+"Journal": "Mol Autism",
+"Title": "Meta-analysis of GWAS of over 16,000 individuals with autism spectrum disorder highlights a novel locus at 10q24.32 and a significant overlap with schizophrenia."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 43,
+"fields": {
+"Pubmedid": 29059683,
+"Date": "2017-10-23",
+"Journal": "Nature",
+"Title": "Association analysis identifies 65 new breast cancer risk loci."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 44,
+"fields": {
+"Pubmedid": 27863252,
+"Date": "2016-11-17",
+"Journal": "Cell",
+"Title": "The Allelic Landscape of Human Blood Cell Trait Variation and Links to Common Complex Disease."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 45,
+"fields": {
+"Pubmedid": 25961943,
+"Date": "2015-05-11",
+"Journal": "Nat Genet",
+"Title": "The impact of low-frequency and rare variants on lipid levels."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 46,
+"fields": {
+"Pubmedid": 27659466,
+"Date": "2016-09-27",
+"Journal": "J Am Coll Cardiol",
+"Title": "52 Genetic Loci Influencing Myocardial Mass."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 47,
+"fields": {
+"Pubmedid": 28644415,
+"Date": "2017-06-23",
+"Journal": "Nutrients",
+"Title": "Genome-Wide Association Study of Dietary Pattern Scores."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 48,
+"fields": {
+"Pubmedid": 23382691,
+"Date": "2013-01-31",
+"Journal": "PLoS Genet",
+"Title": "Loci associated with N-glycosylation of human immunoglobulin G show pleiotropy with autoimmune diseases and haematological cancers."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 49,
+"fields": {
+"Pubmedid": 28604730,
+"Date": "2017-06-12",
+"Journal": "Nat Genet",
+"Title": "Large-scale association analysis identifies new lung cancer susceptibility loci and heterogeneity in genetic susceptibility across histological subtypes."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 50,
+"fields": {
+"Pubmedid": 26691988,
+"Date": "2015-12-21",
+"Journal": "Nat Genet",
+"Title": "A large genome-wide association study of age-related macular degeneration highlights contributions of rare and common variants."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 51,
+"fields": {
+"Pubmedid": 26192919,
+"Date": "2015-07-20",
+"Journal": "Nat Genet",
+"Title": "Association analyses identify 38 susceptibility loci for inflammatory bowel disease and highlight shared genetic risk across populations."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 52,
+"fields": {
+"Pubmedid": 27863252,
+"Date": "2016-11-17",
+"Journal": "Cell",
+"Title": "The Allelic Landscape of Human Blood Cell Trait Variation and Links to Common Complex Disease."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 53,
+"fields": {
+"Pubmedid": 29059683,
+"Date": "2017-10-23",
+"Journal": "Nature",
+"Title": "Association analysis identifies 65 new breast cancer risk loci."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 54,
+"fields": {
+"Pubmedid": 25673413,
+"Date": "2015-02-12",
+"Journal": "Nature",
+"Title": "Genetic studies of body mass index yield new insights for obesity biology."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 55,
+"fields": {
+"Pubmedid": 27989323,
+"Date": "2016-12-13",
+"Journal": "Am J Hum Genet",
+"Title": "Genome-wide Association Study Identifies 27 Loci Influencing Concentrations of Circulating Cytokines and Growth Factors."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 56,
+"fields": {
+"Pubmedid": 28181694,
+"Date": "2017-02-09",
+"Journal": "J Bone Miner Res",
+"Title": "A Genome-Wide Association Study Identifies Two Sex-specific Loci, at SPTB and IZUMO3, Influencing Pediatric Bone Mineral Density at Multiple Skeletal Sites."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 57,
+"fields": {
+"Pubmedid": 26352407,
+"Date": "2015-09-09",
+"Journal": "PLoS Genet",
+"Title": "Genome-Wide Association Study with Targeted and Non-targeted NMR Metabolomics Identifies 15 Novel Loci of Urinary Human Metabolic Individuality."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 58,
+"fields": {
+"Pubmedid": 26545240,
+"Date": "2015-11-06",
+"Journal": "PLoS One",
+"Title": "Genetic Determinants of Pelvic Organ Prolapse among African American and Hispanic Women in the Women's Health Initiative."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 59,
+"fields": {
+"Pubmedid": 23251661,
+"Date": "2012-12-04",
+"Journal": "PLoS One",
+"Title": "Novel genetic loci identified for the pathophysiology of childhood obesity in the Hispanic population."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 60,
+"fields": {
+"Pubmedid": 23382691,
+"Date": "2013-01-31",
+"Journal": "PLoS Genet",
+"Title": "Loci associated with N-glycosylation of human immunoglobulin G show pleiotropy with autoimmune diseases and haematological cancers."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 61,
+"fields": {
+"Pubmedid": 27863252,
+"Date": "2016-11-17",
+"Journal": "Cell",
+"Title": "The Allelic Landscape of Human Blood Cell Trait Variation and Links to Common Complex Disease."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 62,
+"fields": {
+"Pubmedid": 23251661,
+"Date": "2012-12-04",
+"Journal": "PLoS One",
+"Title": "Novel genetic loci identified for the pathophysiology of childhood obesity in the Hispanic population."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 63,
+"fields": {
+"Pubmedid": 28437668,
+"Date": "2017-04-14",
+"Journal": "Psychiatry Res",
+"Title": "Genome-wide association study of treatment response to venlafaxine XR in generalized anxiety disorder."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 64,
+"fields": {
+"Pubmedid": 29186694,
+"Date": "2017-11-28",
+"Journal": "Cell Rep",
+"Title": "Large-Scale Cognitive GWAS Meta-Analysis Reveals Tissue-Specific Neural Expression and Potential Nootropic Drug Targets."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 65,
+"fields": {
+"Pubmedid": 26821981,
+"Date": "2016-01-28",
+"Journal": "J Neural Transm",
+"Title": "Genome-wide association analysis to predict optimal antipsychotic dosage in schizophrenia: a pilot study."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 66,
+"fields": {
+"Pubmedid": 26343387,
+"Date": "2015-09-07",
+"Journal": "Nat Genet",
+"Title": "A comprehensive 1000 Genomes-based genome-wide association meta-analysis of coronary artery disease."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 67,
+"fields": {
+"Pubmedid": 23319000,
+"Date": "2013-01-15",
+"Journal": "Mol Psychiatry",
+"Title": "Genome-wide association study of monoamine metabolite levels in human cerebrospinal fluid."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 68,
+"fields": {
+"Pubmedid": 26252872,
+"Date": "2015-08-07",
+"Journal": "PLoS One",
+"Title": "Variations in the FRA10AC1 Fragile Site and 15q21 Are Associated with Cerebrospinal Fluid A?1-42 Level."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 69,
+"fields": {
+"Pubmedid": 26634245,
+"Date": "2015-12-03",
+"Journal": "BMC Genet",
+"Title": "A genome-wide association study identifies risk loci for spirometric measures among smokers of European and African ancestry."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 70,
+"fields": {
+"Pubmedid": 29212778,
+"Date": "2017-12-06",
+"Journal": "Circ Res",
+"Title": "The Identification of 64 Novel Genetic Loci Provides an Expanded View on the Genetic Architecture of Coronary Artery Disease."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 71,
+"fields": {
+"Pubmedid": 24782177,
+"Date": "2014-05-01",
+"Journal": "Arthritis Rheumatol",
+"Title": "Novel risk loci for rheumatoid arthritis in Han Chinese and congruence with risk variants in Europeans."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 72,
+"fields": {
+"Pubmedid": 26634245,
+"Date": "2015-12-03",
+"Journal": "BMC Genet",
+"Title": "A genome-wide association study identifies risk loci for spirometric measures among smokers of European and African ancestry."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 73,
+"fields": {
+"Pubmedid": 28334899,
+"Date": "2017-02-21",
+"Journal": "Hum Mol Genet",
+"Title": "Association analyses of East Asian individuals and trans-ancestry analyses with European individuals reveal new loci associated with cholesterol and triglyceride levels."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 74,
+"fields": {
+"Pubmedid": 28067908,
+"Date": "2017-01-09",
+"Journal": "Nat Genet",
+"Title": "Genome-wide association study implicates immune activation of multiple integrin genes in inflammatory bowel disease."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 75,
+"fields": {
+"Pubmedid": 27197191,
+"Date": "2016-04-20",
+"Journal": "Cancer Res",
+"Title": "Cross-cancer genome-wide analysis of lung, ovary, breast, prostate and colorectal cancer reveals novel pleiotropic associations."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 76,
+"fields": {
+"Pubmedid": 18391952,
+"Date": "2008-04-06",
+"Journal": "Nat Genet",
+"Title": "Genome-wide association analysis identifies 20 loci that influence adult height."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 77,
+"fields": {
+"Pubmedid": 25918132,
+"Date": "2015-04-26",
+"Journal": "Toxicol Sci",
+"Title": "Genome-wide association study identifies novel loci associated with diisocyanate-induced occupational asthma."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 78,
+"fields": {
+"Pubmedid": 24025145,
+"Date": "2013-09-11",
+"Journal": "Breast Cancer Res",
+"Title": "A genome-wide association study of chemotherapy-induced alopecia in breast cancer patients."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 79,
+"fields": {
+"Pubmedid": 24751813,
+"Date": "2014-06-01",
+"Journal": "Pharmacogenet Genomics",
+"Title": "Genome-wide association study supports the role of the immunological system and of the neurodevelopmental processes in response to haloperidol treatment."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 80,
+"fields": {
+"Pubmedid": 21107309,
+"Date": "2010-11-24",
+"Journal": "Neuropsychopharmacology",
+"Title": "Genome-wide pharmacogenomic study of neurocognition as an indicator of antipsychotic treatment response in schizophrenia."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 81,
+"fields": {
+"Pubmedid": 19151714,
+"Date": "2009-01-18",
+"Journal": "Nat Genet",
+"Title": "Genome-wide association study for early-onset and morbid adult obesity identifies three new risk loci in European populations."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 82,
+"fields": {
+"Pubmedid": 29083406,
+"Date": "2017-10-30",
+"Journal": "Nat Genet",
+"Title": "Shared genetic origin of asthma, hay fever and eczema elucidates allergic disease biology."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 83,
+"fields": {
+"Pubmedid": 21874001,
+"Date": "2011-08-28",
+"Journal": "Nat Genet",
+"Title": "Genome-wide association study in individuals of South Asian ancestry identifies six new type 2 diabetes susceptibility loci."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 84,
+"fields": {
+"Pubmedid": 24039173,
+"Date": "2013-09-13",
+"Journal": "Am J Med Genet B Neuropsychiatr Genet",
+"Title": "Genetic predictors of risk and resilience in psychiatric disorders: a cross-disorder genome-wide association study of functional impairment in major depressive disorder, bipolar disorder, and schizophrenia."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 85,
+"fields": {
+"Pubmedid": 28247064,
+"Date": "2017-02-28",
+"Journal": "Acta Neuropathol",
+"Title": "Genome-wide association study identifies four novel loci associated with Alzheimer's endophenotypes and disease modifiers."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 86,
+"fields": {
+"Pubmedid": 18464913,
+"Date": "2008-05-09",
+"Journal": "PLoS Genet",
+"Title": "A genome-wide association study identifies protein quantitative trait loci (pQTLs)."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 87,
+"fields": {
+"Pubmedid": 26192919,
+"Date": "2015-07-20",
+"Journal": "Nat Genet",
+"Title": "Association analyses identify 38 susceptibility loci for inflammatory bowel disease and highlight shared genetic risk across populations."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 88,
+"fields": {
+"Pubmedid": 27354352,
+"Date": "2016-06-27",
+"Journal": "Hum Mol Genet",
+"Title": "Genome-wide association study in East Asians identifies two novel breast cancer susceptibility loci."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 89,
+"fields": {
+"Pubmedid": 27863252,
+"Date": "2016-11-17",
+"Journal": "Cell",
+"Title": "The Allelic Landscape of Human Blood Cell Trait Variation and Links to Common Complex Disease."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 90,
+"fields": {
+"Pubmedid": 27863252,
+"Date": "2016-11-17",
+"Journal": "Cell",
+"Title": "The Allelic Landscape of Human Blood Cell Trait Variation and Links to Common Complex Disease."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 91,
+"fields": {
+"Pubmedid": 23128233,
+"Date": "2012-11-01",
+"Journal": "Nature",
+"Title": "Host-microbe interactions have shaped the genetic architecture of inflammatory bowel disease."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 92,
+"fields": {
+"Pubmedid": 27126917,
+"Date": "2016-04-29",
+"Journal": "J Sleep Res",
+"Title": "Genome-wide association analysis of actigraphic sleep phenotypes in the LIFE Adult Study."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 93,
+"fields": {
+"Pubmedid": 29112194,
+"Date": "2017-11-07",
+"Journal": "Mol Psychiatry",
+"Title": "Genome-wide association study identifies a novel locus for cannabis dependence."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 94,
+"fields": {
+"Pubmedid": 25201988,
+"Date": "2014-09-08",
+"Journal": "Proc Natl Acad Sci U S A",
+"Title": "Common genetic variants associated with cognitive performance identified using the proxy-phenotype method."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 95,
+"fields": {
+"Pubmedid": 26007630,
+"Date": "2015-05-26",
+"Journal": "Nat Commun",
+"Title": "Variants in ELL2 influencing immunoglobulin levels associate with multiple myeloma."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 96,
+"fields": {
+"Pubmedid": 19448619,
+"Date": "2009-05-15",
+"Journal": "Nat Genet",
+"Title": "Loci at chromosomes 13, 19 and 20 influence age at natural menopause."
+}
+},
+{
+"model": "snps.Reference",
+"pk": 97,
+"fields": {
+"Pubmedid": 26634245,
+"Date": "2015-12-03",
+"Journal": "BMC Genet",
+"Title": "A genome-wide association study identifies risk loci for spirometric measures among smokers of European and African ancestry."
+}
+}
+]

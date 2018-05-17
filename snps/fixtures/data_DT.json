@@ -1,0 +1,681 @@
+[
+{
+"model": "snps.Disease_trait",
+"pk": 1,
+"fields": {
+"Name": "Chronic hepatitis B infection"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 2,
+"fields": {
+"Name": "Monocyte count"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 3,
+"fields": {
+"Name": "Caffeine metabolism (plasma 1,3,7-trimethylxanthine (caffeine) level)"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 4,
+"fields": {
+"Name": "Rheumatoid arthritis"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 5,
+"fields": {
+"Name": "Post bronchodilator FEV1/FVC ratio"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 6,
+"fields": {
+"Name": "High light scatter reticulocyte percentage of red cells"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 7,
+"fields": {
+"Name": "Systolic blood pressure"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 8,
+"fields": {
+"Name": "Multiple myeloma (hyperdiploidy)"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 9,
+"fields": {
+"Name": "3-hydroxypropylmercapturic acid levels in smokers"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 10,
+"fields": {
+"Name": "HDL cholesterol levels"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 11,
+"fields": {
+"Name": "Left ventricle wall thickness"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 12,
+"fields": {
+"Name": "Crohn's disease"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 13,
+"fields": {
+"Name": "Reticulocyte fraction of red cells"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 14,
+"fields": {
+"Name": "Acylcarnitine levels"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 15,
+"fields": {
+"Name": "LDL cholesterol levels"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 16,
+"fields": {
+"Name": "Venlafaxine response in generalised anxiety disorder (remitters vs non-remitters after 24 weeks)"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 17,
+"fields": {
+"Name": "Bipolar disorder"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 18,
+"fields": {
+"Name": "Amyotrophic lateral sclerosis"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 19,
+"fields": {
+"Name": "Bipolar disorder and schizophrenia"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 20,
+"fields": {
+"Name": "Urate levels in overweight individuals"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 21,
+"fields": {
+"Name": "Ankylosing spondylitis"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 22,
+"fields": {
+"Name": "Hemoglobin concentration"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 23,
+"fields": {
+"Name": "Thyroid hormone levels"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 24,
+"fields": {
+"Name": "Waist-to-hip ratio adjusted for body mass index"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 25,
+"fields": {
+"Name": "Mean corpuscular hemoglobin"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 26,
+"fields": {
+"Name": "Height"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 27,
+"fields": {
+"Name": "Stem cell factor levels"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 28,
+"fields": {
+"Name": "Urinary albumin excretion rate in type 1 diabetes"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 29,
+"fields": {
+"Name": "Telomere length"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 30,
+"fields": {
+"Name": "Vitiligo"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 31,
+"fields": {
+"Name": "Diisocyanate-induced asthma"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 32,
+"fields": {
+"Name": "Myeloid white cell count"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 33,
+"fields": {
+"Name": "Hyperactive-impulsive symptoms"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 34,
+"fields": {
+"Name": "Interleukin-2 receptor antagonist levels"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 35,
+"fields": {
+"Name": "Waist-to-hip ratio adjusted for BMI in non-smokers"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 36,
+"fields": {
+"Name": "Height"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 37,
+"fields": {
+"Name": "Exploratory eye movement dysfunction in schizophrenia (number of eye fixations)"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 38,
+"fields": {
+"Name": "Blood pressure"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 39,
+"fields": {
+"Name": "HIV-1 control"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 40,
+"fields": {
+"Name": "Chronic bronchitis and chronic obstructive pulmonary disease"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 41,
+"fields": {
+"Name": "Attention deficit hyperactivity disorder (combined symptoms)"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 42,
+"fields": {
+"Name": "Autism spectrum disorder or schizophrenia"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 43,
+"fields": {
+"Name": "Breast cancer"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 44,
+"fields": {
+"Name": "White blood cell count"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 45,
+"fields": {
+"Name": "Cholesterol, total"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 46,
+"fields": {
+"Name": "QRS duration"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 47,
+"fields": {
+"Name": "Prudent dietary pattern"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 48,
+"fields": {
+"Name": "IgG glycosylation"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 49,
+"fields": {
+"Name": "Lung adenocarcinoma"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 50,
+"fields": {
+"Name": "Advanced age-related macular degeneration"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 51,
+"fields": {
+"Name": "Inflammatory bowel disease"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 52,
+"fields": {
+"Name": "Eosinophil percentage of granulocytes"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 53,
+"fields": {
+"Name": "Breast cancer"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 54,
+"fields": {
+"Name": "Body mass index"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 55,
+"fields": {
+"Name": "Platelet-derived growth factor BB levels"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 56,
+"fields": {
+"Name": "Pediatric bone mineral content (hip)"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 57,
+"fields": {
+"Name": "Urinary metabolites"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 58,
+"fields": {
+"Name": "Pelvic organ prolapse (moderate/severe)"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 59,
+"fields": {
+"Name": "Obesity-related traits"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 60,
+"fields": {
+"Name": "IgG glycosylation"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 61,
+"fields": {
+"Name": "Reticulocyte fraction of red cells"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 62,
+"fields": {
+"Name": "Obesity-related traits"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 63,
+"fields": {
+"Name": "Venlafaxine response in generalised anxiety disorder (responders vs non-responders after 12 weeks)"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 64,
+"fields": {
+"Name": "Cognitive ability"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 65,
+"fields": {
+"Name": "antipsychotic drug dosage in schizophrenia or schizoaffective disorder"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 66,
+"fields": {
+"Name": "Coronary artery disease"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 67,
+"fields": {
+"Name": "Metabolite levels (HVA/5-HIAA ratio)"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 68,
+"fields": {
+"Name": "Cerebral amyloid deposition in APOEe4 non-carriers (PET imaging)"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 69,
+"fields": {
+"Name": "Post bronchodilator FEV1/FVC ratio"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 70,
+"fields": {
+"Name": "Coronary artery disease"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 71,
+"fields": {
+"Name": "Rheumatoid arthritis"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 72,
+"fields": {
+"Name": "Post bronchodilator FEV1/FVC ratio"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 73,
+"fields": {
+"Name": "Total cholesterol levels"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 74,
+"fields": {
+"Name": "Inflammatory bowel disease"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 75,
+"fields": {
+"Name": "Cancer (pleiotropy)"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 76,
+"fields": {
+"Name": "Height"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 77,
+"fields": {
+"Name": "Diisocyanate-induced asthma"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 78,
+"fields": {
+"Name": "Adverse response to chemotherapy in breast cancer (alopecia) (cyclophosphamide+doxorubicin+/-5FU)"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 79,
+"fields": {
+"Name": "Response to haloperidol in psychosis"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 80,
+"fields": {
+"Name": "Response to antipsychotic treatment in schizophrenia (reasoning)"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 81,
+"fields": {
+"Name": "Obesity"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 82,
+"fields": {
+"Name": "Allergic disease (asthma, hay fever or eczema)"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 83,
+"fields": {
+"Name": "Type 2 diabetes"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 84,
+"fields": {
+"Name": "Functional impairment in major depressive disorder, bipolar disorder and schizophrenia"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 85,
+"fields": {
+"Name": "Cerebrospinal P-tau181p levels"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 86,
+"fields": {
+"Name": "Protein quantitative trait loci"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 87,
+"fields": {
+"Name": "Ulcerative colitis"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 88,
+"fields": {
+"Name": "Breast cancer"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 89,
+"fields": {
+"Name": "Eosinophil percentage of white cells"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 90,
+"fields": {
+"Name": "Monocyte count"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 91,
+"fields": {
+"Name": "Inflammatory bowel disease"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 92,
+"fields": {
+"Name": "Daytime sleep phenotypes"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 93,
+"fields": {
+"Name": "Cannabis dependence symptom count"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 94,
+"fields": {
+"Name": "Educational attainment"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 95,
+"fields": {
+"Name": "Multiple myeloma"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 96,
+"fields": {
+"Name": "Menopause (age at onset)"
+}
+},
+{
+"model": "snps.Disease_trait",
+"pk": 97,
+"fields": {
+"Name": "Post bronchodilator FEV1/FVC ratio"
+}
+}
+]
