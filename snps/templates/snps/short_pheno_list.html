@@ -1,0 +1,14 @@
+{% extends 'snps/base.html' %}
+
+{% block content %}
+    {% for post in posts %}
+        <div class="post">
+            <div class="date">
+                {{ post.published_date }}
+            </div>
+            <h1><a href="{% url 'post_detail' pk=post.pk %}">{{ post.JOURNAL }}</a></h1>
+            <p> <b>{{ post.DISEASE_TRAIT|linebreaksbr }} </b>, Chromosome {{ post.CHR_ID }}, SNP position: {{ post.CHR_POS }}, P-value = {{ post.P_VALUE }}</p>
+            <p>{{ post.STUDY|linebreaksbr }}</p>
+        </div>
+    {% endfor %}
+{% endblock %}

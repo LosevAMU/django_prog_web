@@ -1,22 +1,27 @@
 {% load staticfiles %}
 <html>
     <head>
-        <title>Phenotype list</title>
+        <title>Programmation Web</title>
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
         <link href='//fonts.googleapis.com/css?family=Lobster&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="{% static 'css/snps.css' %}">
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     </head>
     <body>
 
       <div class="page-header">
           {% if user.is_authenticated %}
-              <a href="{% url 'post_new' %}" class="top-menu"><span class="glyphicon glyphicon-plus"></span></a>
-              <p class="top-menu">Hello {{ user.username }} <small>(<a href="{% url 'logout' %}">Log out</a>)</small></p>
+              <a href="{% url 'post_new' %}" class="top-menu" title="Add SNP"><span class="glyphicon glyphicon-plus"></span></a>
+              <a href="{% url 'search' %}" class="top-menu" title="Search for SNPs by parameters"><span class="glyphicon glyphicon-search"></span></a>
+              <a href="{% url 'search_interval' %}" class="top-menu" title="Search for SNPs within range"><span class="glyphicon glyphicon-resize-horizontal"></span></a>
+              <a href="{% url 'phenotype_list' %}" class="top-menu" title="Phenotype list"><span class="glyphicon glyphicon-list-alt"></span></a>
+              <a href="{% url 'post_list' %}" class="top-menu" title="Home, sweet home"><span class="glyphicon glyphicon-home"></span></a>
+              <p class="top-menu">Hello {{ user.username }} <small>(<a href="{% url 'logout' %}"  title="Hasta la vista, baby">Log out</a>)</small></p>
           {% else %}
-              <a href="{% url 'login' %}" class="top-menu"><span class="glyphicon glyphicon-lock"></span></a>
+              <a href="{% url 'login' %}" class="top-menu" title="Login"><span class="glyphicon glyphicon-lock"></span></a>
           {% endif %}
-          <h1><a href="/">Phenotype list</a></h1>
+          <h1><a href="/">Programmation Web</a></h1>
       </div>
         <div class="content container">
             <div class="row">

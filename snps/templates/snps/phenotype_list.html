@@ -1,0 +1,12 @@
+{% extends 'snps/base.html' %}
+
+{% block content %}
+  <h1> Phenotype list </h1>
+    {% for post in posts %}
+        <div class="post">
+            <!-- <div class="date"> -->
+                <a href="{% url 'search_phenotype' %}">{{ post.DISEASE_TRAIT }}</a>: {{ post.published_date }}, {{ post.STUDY|linebreaksbr }};
+            <!-- </div> -->
+        </div>
+    {% endfor %}
+{% endblock %}
